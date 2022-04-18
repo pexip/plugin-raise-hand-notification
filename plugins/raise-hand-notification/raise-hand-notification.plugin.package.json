@@ -1,0 +1,10 @@
+{
+    "id": "raise-hand-notification-plugin-1.0",
+    "name": "raise-hand-notification",
+    "description": "Raise hand toast notification for Virtual Auditoriums",
+    "version": 1.0,
+    "srcURL": "raise-hand-notification.plugin.js",
+    "allowUnload": true,
+    "platforms": ["web", "electron", "ios", "android"],
+    "participantRoles": ["chair", "guest"]
+}

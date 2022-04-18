@@ -1,0 +1,13 @@
+.toast-container {
+  position: absolute;
+  align-self: center;
+}
+
+.toast {
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 15px;
+  padding: 15px;
+  margin-top: 20px;
+  color: #333;
+  z-index: 1;
+}

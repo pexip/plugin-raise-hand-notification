@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "raise-hand-notification-plugin-1.0",
+      "srcURL": "plugins/raise-hand-notification/raise-hand-notification.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
