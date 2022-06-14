@@ -39,7 +39,7 @@
     toast.className = 'toast';
     toast.innerHTML = `${username} has raised a hand`;
     document.querySelector('.toast-container').appendChild(toast);
-    setTimeout( () => toast.remove(), 3000);
+    setTimeout( () => toast.remove(), 5000);
   }
 
   PEX.pluginAPI.registerPlugin({
